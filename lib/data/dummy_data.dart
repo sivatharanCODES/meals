@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:meals/models/category.dart';
 
-List<Category> availableCategories = [
+const availableCategories = [
   Category(
     id: 'c1',
     title: 'Italian',
